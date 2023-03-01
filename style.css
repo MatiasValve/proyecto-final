@@ -1,0 +1,145 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    background-color: #e9e5dc;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+  
+  header {
+    background-color: #e9e5dc;
+    padding: 5px;
+    text-align: center;
+  }
+
+/*nav*/
+  nav {
+    background-color: #E2DED3;
+    float: left;
+    width: 5.5cm;    
+    height: 100%;
+  }
+
+  .foto{
+    display: block;
+    margin: auto;
+	height: 7.7cm;
+    width: 4.73cm;    
+ }
+
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  nav li {
+    padding: 10px;
+ }
+
+   
+/*cuerpo*/
+
+  main {
+    margin-left: 20%;
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 24px;
+    margin-top: 0;
+  }
+
+  h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  .fecha {
+    display: inline-block;
+    margin-right: 0.5em;   
+  } 
+
+  .concepto {
+    font-weight: bold;
+  }
+  
+/*Estudios*/  
+  #estudios ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+   #estudios li {
+    margin-left: 20px; 
+  }
+  
+  #estudios p {
+    margin: 0.1em;
+    margin-left: 95px;
+  } 
+  
+/*Cursos*/  
+ #cursos ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+ 
+  #cursos li {
+    margin-left: 20px; 
+  }
+  
+  #cursos p {
+    margin: 0.1em;
+    margin-left: 95px;
+  }
+/*laboral*/  
+#laboral ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  #laboral li {
+    margin-left: 20px; 
+  }
+  
+  #laboral p {
+    margin: 0.1em;
+    margin-left: 95px;
+  }
+
+  /*laboral*/  
+  #laboral ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+ 
+  #laboral li {
+    margin-left: 20px; 
+  }
+  
+  #laboral p {
+    margin: 0.1em;
+    margin-left: 95px;
+  }
+
+  footer p{
+	text-align: center;
+	/*padding: 30px;*/
+}
+  
+
+  
